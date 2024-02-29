@@ -1,0 +1,1 @@
+The purpose of this project is to create a single interactive game that utilises design patterns to teach primary school children about science in a colourful and enjoyable way. To create the game, I used eclipse, maven, and javaFX2. Factory, Singleton, and MVC were the design patterns used in this game. Each one will be discussed in greater detail in subsequent sections.
